@@ -2,7 +2,7 @@
 <!doctype html>
 <html>
 <head>
-    <title>Example Domain</title>
+    <title>E-commerce website</title>
 
     <meta charset="utf-8" />
     <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
@@ -38,10 +38,9 @@
 
 <body>
 <div>
-    <h1>Example Domain</h1>
-    <p>This domain is for use in illustrative examples in documents. You may use this
-    domain in literature without prior coordination or asking for permission.</p>
-    <p><a href="https://www.iana.org/domains/example">More information...</a></p>
+    <h1>E-commerce website</h1>
+    <p>This is a E-commerce website where we buy many household items, gadgets, clothing, daily grocery etc.</p>
+    <p><a href="https://www.flipkart.com">Click here...</a></p>
 </div>
 </body>
 </html>
